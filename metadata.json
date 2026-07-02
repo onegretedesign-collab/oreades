@@ -1,0 +1,6 @@
+{
+  "name": "Oréades",
+  "description": "Instituto Oréades - Geoprocessamento e Conservação da Natureza. App para conservação do Cerrado, restauração de nascentes e mapeamento ambiental.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
